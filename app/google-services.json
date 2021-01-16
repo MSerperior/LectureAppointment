@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "105589571066",
+    "project_id": "lecture-appointment",
+    "storage_bucket": "lecture-appointment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105589571066:android:5f2dfa4a59f673b1a43843",
+        "android_client_info": {
+          "package_name": "com.dsc.lectureAppointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105589571066-rife76h7oavnkfpf0ia3a8nrnf0q9obv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dsc.lectureAppointment",
+            "certificate_hash": "5310719be06b3439ca6dd4a31224fd75e486ad52"
+          }
+        },
+        {
+          "client_id": "105589571066-fr0qhe8lnakjs1juv2t7ijiu7i7eqejg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQOTRkabMvOz32t8M1Prp1SchuCLLsiiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105589571066-fr0qhe8lnakjs1juv2t7ijiu7i7eqejg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
